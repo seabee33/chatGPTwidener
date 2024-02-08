@@ -53,7 +53,7 @@
 
 		/* Bring back background destinction between bot and user messages */
 		.flex.flex-col.pb-9.text-sm .w-full.text-token-text-primary[data-testid]:nth-child(odd) {
-			background-color: #404251;
+			background-color: #141414;
 		}
 
 		/* Make top useless bar non-opaque (to make more text in the chat visible) */
