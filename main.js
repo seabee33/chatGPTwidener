@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=openai.com
 // @grant        none
 // ==/UserScript==
+// Original code here: https://www.reddit.com/r/ChatGPT/comments/15nbpaa/chatgpts_webinterface_width_fix/
 
 (function() {
 	const accentColor = `#141414`;
